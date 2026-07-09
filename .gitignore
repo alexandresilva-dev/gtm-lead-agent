@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/enriched_leads.csv
+.pytest_cache/
